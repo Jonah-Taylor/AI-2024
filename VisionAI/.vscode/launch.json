@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run VisionAI",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/VisionAI",  // Executable name and path
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/build",
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "miDebuggerPath": "/usr/bin/gdb",
+            "preLaunchTask": "build",  // Make sure to build before launching
+            "miDebuggerArgs": "",
+            "externalConsole": false
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+# ninja log v6
+2	1989	1734726128591218417	CMakeFiles/VisionAI.dir/src/main.cpp.o	1ddfe8834386bd04
+2	4432	1734639742205223967	CMakeFiles/VisionAI.dir/src/pseument.cpp.o	fea98c84deed76b3
+3698	3909	1734724222272645553	VisionAI	49e125efd31c7dfb
+2	3659	1734726128591218417	CMakeFiles/VisionAI.dir/src/layer.cpp.o	7d36392cf4a25562

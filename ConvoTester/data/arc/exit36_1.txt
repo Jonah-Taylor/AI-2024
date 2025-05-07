@@ -1,0 +1,4 @@
+1
+dense 28 28 leakyrelu
+
+

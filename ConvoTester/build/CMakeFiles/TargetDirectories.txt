@@ -1,0 +1,3 @@
+/home/jonah/Documents/Programs/cpp_workspace/deep_learning/ConvoTester/build/CMakeFiles/VisionAI.dir
+/home/jonah/Documents/Programs/cpp_workspace/deep_learning/ConvoTester/build/CMakeFiles/edit_cache.dir
+/home/jonah/Documents/Programs/cpp_workspace/deep_learning/ConvoTester/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/build",
+  "command": "/usr/bin/g++ -I/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/include -g -std=gnu++17 -o CMakeFiles/VisionAI.dir/src/convolayer.cpp.o -c /home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/src/convolayer.cpp",
+  "file": "/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/src/convolayer.cpp",
+  "output": "CMakeFiles/VisionAI.dir/src/convolayer.cpp.o"
+},
+{
+  "directory": "/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/build",
+  "command": "/usr/bin/g++ -I/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/include -g -std=gnu++17 -o CMakeFiles/VisionAI.dir/src/denselayer.cpp.o -c /home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/src/denselayer.cpp",
+  "file": "/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/src/denselayer.cpp",
+  "output": "CMakeFiles/VisionAI.dir/src/denselayer.cpp.o"
+},
+{
+  "directory": "/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/build",
+  "command": "/usr/bin/g++ -I/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/include -g -std=gnu++17 -o CMakeFiles/VisionAI.dir/src/draw.cpp.o -c /home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/src/draw.cpp",
+  "file": "/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/src/draw.cpp",
+  "output": "CMakeFiles/VisionAI.dir/src/draw.cpp.o"
+},
+{
+  "directory": "/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/build",
+  "command": "/usr/bin/g++ -I/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/include -g -std=gnu++17 -o CMakeFiles/VisionAI.dir/src/pseument.cpp.o -c /home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/src/pseument.cpp",
+  "file": "/home/jonah/Documents/Programs/cpp_workspace/deep_learning/VisionAI/src/pseument.cpp",
+  "output": "CMakeFiles/VisionAI.dir/src/pseument.cpp.o"
+}
+]
